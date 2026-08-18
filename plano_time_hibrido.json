@@ -1,0 +1,5156 @@
+{
+  "meta": {
+    "programa": "Time Híbrido - 12 semanas",
+    "objetivo": "Perder gordura / emagrecer, criar base aeróbica e completar 3km correndo",
+    "nivel": "Iniciante - Nível 1",
+    "duracao_semanas": 12,
+    "fases": [
+      {
+        "nome": "Base",
+        "semanas": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "nome": "Consolidação",
+        "semanas": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "nome": "Alvo",
+        "semanas": [
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "cref_responsavel": "CREF-SC 025279",
+    "aviso": "Conteúdo informativo, não substitui acompanhamento presencial. Recomenda-se check-up médico antes de iniciar."
+  },
+  "zonas_fc": {
+    "Z1": "50%-59% FCmáx (recuperação, bem leve, dá pra conversar normalmente)",
+    "Z2": "60%-69% FCmáx (leve)",
+    "Z3": "70%-79% FCmáx (moderado — a zona usada nos trechos de corrida deste plano)",
+    "Z4": "80%-89% FCmáx (pesado)",
+    "Z5": "90%-95% FCmáx (máximo)"
+  },
+  "corrida": [
+    {
+      "semana": 1,
+      "etapa": "Base",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "1:3",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 7,
+          "correr": {
+            "duracao_seg": 30,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "1:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 7,
+          "correr": {
+            "duracao_seg": 45,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "1:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 7,
+          "correr": {
+            "duracao_seg": 60,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 2,
+      "etapa": "Base",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "1:3",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 8,
+          "correr": {
+            "duracao_seg": 30,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "1:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 8,
+          "correr": {
+            "duracao_seg": 45,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "1:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 8,
+          "correr": {
+            "duracao_seg": 60,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 3,
+      "etapa": "Base",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "1:3",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 9,
+          "correr": {
+            "duracao_seg": 30,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "1:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 9,
+          "correr": {
+            "duracao_seg": 45,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "1:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 9,
+          "correr": {
+            "duracao_seg": 60,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 4,
+      "etapa": "Base",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "1:3",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 7,
+          "correr": {
+            "duracao_seg": 30,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "1:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 7,
+          "correr": {
+            "duracao_seg": 45,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "1:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 7,
+          "correr": {
+            "duracao_seg": 60,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 5,
+      "etapa": "Consolidação",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "1:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 5,
+          "correr": {
+            "duracao_seg": 60,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 120,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "1:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 5,
+          "correr": {
+            "duracao_seg": 90,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "2:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 5,
+          "correr": {
+            "duracao_seg": 120,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 6,
+      "etapa": "Consolidação",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "1:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 6,
+          "correr": {
+            "duracao_seg": 60,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 120,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "1:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 6,
+          "correr": {
+            "duracao_seg": 90,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "2:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 6,
+          "correr": {
+            "duracao_seg": 120,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 7,
+      "etapa": "Consolidação",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "1:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 7,
+          "correr": {
+            "duracao_seg": 60,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 120,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "1:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 7,
+          "correr": {
+            "duracao_seg": 90,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "2:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 7,
+          "correr": {
+            "duracao_seg": 120,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 8,
+      "etapa": "Consolidação",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "1:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 5,
+          "correr": {
+            "duracao_seg": 60,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 120,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "1:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 5,
+          "correr": {
+            "duracao_seg": 90,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 90,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "2:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 5,
+          "correr": {
+            "duracao_seg": 120,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 9,
+      "etapa": "Alvo",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "2:3",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 4,
+          "correr": {
+            "duracao_seg": 120,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 180,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "3:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 4,
+          "correr": {
+            "duracao_seg": 180,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 120,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "4:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 4,
+          "correr": {
+            "duracao_seg": 240,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 10,
+      "etapa": "Alvo",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "2:3",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 5,
+          "correr": {
+            "duracao_seg": 120,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 180,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "3:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 5,
+          "correr": {
+            "duracao_seg": 180,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 120,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "4:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 5,
+          "correr": {
+            "duracao_seg": 240,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 11,
+      "etapa": "Alvo",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "2:3",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 6,
+          "correr": {
+            "duracao_seg": 120,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 180,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "3:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 6,
+          "correr": {
+            "duracao_seg": 180,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 120,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Sábado",
+          "tipo_intervalo": "4:1",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 6,
+          "correr": {
+            "duracao_seg": 240,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 60,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        }
+      ]
+    },
+    {
+      "semana": 12,
+      "etapa": "Alvo",
+      "sessoes": [
+        {
+          "ordem": 1,
+          "rotulo_original_planilha": "3ª feira",
+          "tipo_intervalo": "2:3",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 5,
+          "correr": {
+            "duracao_seg": 120,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 180,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 2,
+          "rotulo_original_planilha": "5ª feira",
+          "tipo_intervalo": "3:2",
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 6,
+          "correr": {
+            "duracao_seg": 180,
+            "zona": "Z3"
+          },
+          "caminhar": {
+            "duracao_seg": 120,
+            "zona": "Z1"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": false
+        },
+        {
+          "ordem": 3,
+          "rotulo_original_planilha": "Domingo",
+          "tipo_intervalo": null,
+          "aquecimento": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "repeticoes": 1,
+          "corrida_continua": {
+            "distancia_km": 3,
+            "zona": "Z3"
+          },
+          "volta_calma": {
+            "duracao_seg": 300,
+            "zona": "Z1"
+          },
+          "prova_final": true
+        }
+      ]
+    }
+  ],
+  "musculacao": [
+    {
+      "semana": 1,
+      "etapa": "Base",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "LEG PRESS 45",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=dqqu74zI9RE"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "TERRA DEADLIFT",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=yXJl2cw4_VM"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "SUPINO RETO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=ml0Ag7qrx_A"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSSOVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS BARRA W",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=6nX2_zUwHhY"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA ALTA POLIA OU MÁQUINA",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ZmQAx6HS5wM"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "REMADA BAIXA",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=KuQ1dIEfDIk"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "REMADA SUPINADA",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=UNTmHu6zctU"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "DROPSET",
+              "nome": "TRÍCEPS NA BARRA RETA",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=razyuzW3PCg"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PECK DECK INVERTIDO (CRUCIFIXO INVERTIDO)",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=gJcZ_TVk2Sk"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "SUPINO RETO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=ml0Ag7qrx_A"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSSOVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS BARRA W",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=6nX2_zUwHhY"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 2,
+      "etapa": "Base",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "LEG PRESS 45",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=dqqu74zI9RE"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "TERRA DEADLIFT",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=yXJl2cw4_VM"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "SUPINO RETO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=ml0Ag7qrx_A"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSSOVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS BARRA W",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=6nX2_zUwHhY"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA ALTA POLIA OU MÁQUINA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ZmQAx6HS5wM"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "REMADA BAIXA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=KuQ1dIEfDIk"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "REMADA SUPINADA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=UNTmHu6zctU"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "DROPSET",
+              "nome": "TRÍCEPS NA BARRA RETA",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=razyuzW3PCg"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PECK DECK INVERTIDO (CRUCIFIXO INVERTIDO)",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=gJcZ_TVk2Sk"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "SUPINO RETO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=ml0Ag7qrx_A"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSSOVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS BARRA W",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=6nX2_zUwHhY"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 3,
+      "etapa": "Base",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "LEG PRESS 45",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=dqqu74zI9RE"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "TERRA DEADLIFT",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=yXJl2cw4_VM"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "SUPINO RETO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=ml0Ag7qrx_A"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSSOVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS BARRA W",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=6nX2_zUwHhY"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA ALTA POLIA OU MÁQUINA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ZmQAx6HS5wM"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "REMADA BAIXA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=KuQ1dIEfDIk"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "REMADA SUPINADA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=UNTmHu6zctU"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "DROPSET",
+              "nome": "TRÍCEPS NA BARRA RETA",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=razyuzW3PCg"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PECK DECK INVERTIDO (CRUCIFIXO INVERTIDO)",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=gJcZ_TVk2Sk"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "SUPINO RETO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=ml0Ag7qrx_A"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSSOVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS BARRA W",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=6nX2_zUwHhY"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 4,
+      "etapa": "Base",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "LEG PRESS 45",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=dqqu74zI9RE"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "TERRA DEADLIFT",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=yXJl2cw4_VM"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "SUPINO RETO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=ml0Ag7qrx_A"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSSOVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS BARRA W",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=6nX2_zUwHhY"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA ALTA POLIA OU MÁQUINA",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ZmQAx6HS5wM"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "REMADA BAIXA",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=KuQ1dIEfDIk"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "REMADA SUPINADA",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=UNTmHu6zctU"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "DROPSET",
+              "nome": "TRÍCEPS NA BARRA RETA",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=razyuzW3PCg"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PECK DECK INVERTIDO (CRUCIFIXO INVERTIDO)",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=gJcZ_TVk2Sk"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "SUPINO RETO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15-12-10-8",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=ml0Ag7qrx_A"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSSOVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS BARRA W",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=6nX2_zUwHhY"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 5,
+      "etapa": "Consolidação",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO RETO C/ BARRA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Xf4hLqaxTEk"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PECKDECK",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=K58FtFAxsPY"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS MARTELO",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=64MVKBH1QS8"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO SUMÔ",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LCQPAP6LjS0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA DEITADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=kwfMLGrkLy0"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "REMADA BAIXA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=KuQ1dIEfDIk"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "DROPSET",
+              "nome": "TRÍCEPS NA BARRA RETA",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=razyuzW3PCg"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO SUMÔ",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LCQPAP6LjS0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA DEITADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=kwfMLGrkLy0"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 6,
+      "etapa": "Consolidação",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO RETO C/ BARRA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Xf4hLqaxTEk"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PECKDECK",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=K58FtFAxsPY"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS MARTELO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=64MVKBH1QS8"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO SUMÔ",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LCQPAP6LjS0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA DEITADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=kwfMLGrkLy0"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "REMADA BAIXA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=KuQ1dIEfDIk"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "DROPSET",
+              "nome": "TRÍCEPS NA BARRA RETA",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=razyuzW3PCg"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO SUMÔ",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LCQPAP6LjS0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA DEITADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=kwfMLGrkLy0"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 7,
+      "etapa": "Consolidação",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO RETO C/ BARRA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Xf4hLqaxTEk"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PECKDECK",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=K58FtFAxsPY"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS MARTELO",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=64MVKBH1QS8"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO SUMÔ",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LCQPAP6LjS0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA DEITADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=kwfMLGrkLy0"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "REMADA BAIXA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=KuQ1dIEfDIk"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "DROPSET",
+              "nome": "TRÍCEPS NA BARRA RETA",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=razyuzW3PCg"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO SUMÔ",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LCQPAP6LjS0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA DEITADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=kwfMLGrkLy0"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 8,
+      "etapa": "Consolidação",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO RETO C/ BARRA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Xf4hLqaxTEk"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=55mogK2xZn0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PECKDECK",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=K58FtFAxsPY"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO FRONTAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Y7JQRa8HdIY"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS MARTELO",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=64MVKBH1QS8"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO SUMÔ",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LCQPAP6LjS0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA DEITADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=kwfMLGrkLy0"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "REMADA BAIXA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=KuQ1dIEfDIk"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "DROPSET",
+              "nome": "TRÍCEPS NA BARRA RETA",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=razyuzW3PCg"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "15",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO LIVRE",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=X-xhu-WD2Zg"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "AGACHAMENTO SUMÔ",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LCQPAP6LjS0"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA DEITADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=kwfMLGrkLy0"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "12",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 9,
+      "etapa": "Alvo",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO RETO C/ BARRA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Xf4hLqaxTEk"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "CRUCIFIXO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ZTn4dR7iXag"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSS OVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "DESENVOLVIMENTO ARNOLD",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=W9YyGiSkmQI"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS MARTELO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=64MVKBH1QS8"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "REMADA CURVADA COM BARRA",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=dDsJBTTPP9g"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "TRÍCEPS CORDA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ppnttf1x4C8"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "AGACHAMENTO SMITH",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=L8zTFmfwk8M"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "LEG PRESS 45",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=dqqu74zI9RE"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA SENTADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=coa9kOmCyY8"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "REMADA CURVADA COM BARRA",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=dDsJBTTPP9g"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "TRÍCEPS CORDA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ppnttf1x4C8"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 10,
+      "etapa": "Alvo",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO RETO C/ BARRA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Xf4hLqaxTEk"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "CRUCIFIXO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ZTn4dR7iXag"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSS OVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "DESENVOLVIMENTO ARNOLD",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=W9YyGiSkmQI"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS MARTELO",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=64MVKBH1QS8"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "REMADA CURVADA COM BARRA",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=dDsJBTTPP9g"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "TRÍCEPS CORDA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ppnttf1x4C8"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "AGACHAMENTO SMITH",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=L8zTFmfwk8M"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "LEG PRESS 45",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=dqqu74zI9RE"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA SENTADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=coa9kOmCyY8"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "REMADA CURVADA COM BARRA",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=dDsJBTTPP9g"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "TRÍCEPS CORDA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ppnttf1x4C8"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "08",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 11,
+      "etapa": "Alvo",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO RETO C/ BARRA",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Xf4hLqaxTEk"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "CRUCIFIXO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ZTn4dR7iXag"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSS OVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "DESENVOLVIMENTO ARNOLD",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=W9YyGiSkmQI"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS MARTELO",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=64MVKBH1QS8"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "REMADA CURVADA COM BARRA",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=dDsJBTTPP9g"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "TRÍCEPS CORDA",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ppnttf1x4C8"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "AGACHAMENTO SMITH",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=L8zTFmfwk8M"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "LEG PRESS 45",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=dqqu74zI9RE"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA SENTADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=coa9kOmCyY8"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "REMADA CURVADA COM BARRA",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=dDsJBTTPP9g"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "TRÍCEPS CORDA",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ppnttf1x4C8"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "06",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semana": 12,
+      "etapa": "Alvo",
+      "treinos": [
+        {
+          "letra": "A",
+          "titulo": "PEITO, OMBRO E BÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "SUPINO RETO C/ BARRA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=Xf4hLqaxTEk"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "CRUCIFIXO INCLINADO C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ZTn4dR7iXag"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "VOADOR (CROSS OVER POLIA ALTA)",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=t7cZ8wHd62k"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "DESENVOLVIMENTO ARNOLD",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=W9YyGiSkmQI"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ELEVAÇÃO LATERAL C/ HALTERES",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=G41Kt1Qepxk"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "ROSCA BÍCEPS MARTELO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=64MVKBH1QS8"
+            },
+            {
+              "bloco": 8,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "BÍCEPS CONCENTRADO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=_xt1dox3d7Y"
+            }
+          ]
+        },
+        {
+          "letra": "B",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "REMADA CURVADA COM BARRA",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=dDsJBTTPP9g"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "TRÍCEPS CORDA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ppnttf1x4C8"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        },
+        {
+          "letra": "C",
+          "titulo": "MEMBROS INFERIORES + ABS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "FLEXIBILIDADE E MOBILIDADE INFERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=sBJK1MU1JGg"
+            },
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AGACHAMENTO C/ PESO DO CORPO",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=oM4dQnw2r44"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "AGACHAMENTO SMITH",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=L8zTFmfwk8M"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "CADEIRA EXTENSORA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=I_s_nJzuIt0"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "META DE REPETIÇÃO",
+              "nome": "LEG PRESS 45",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=dqqu74zI9RE"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO + 12 LEVE",
+              "nome": "FLEXORA SENTADA",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=coa9kOmCyY8"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "CADEIRA ABDUTORA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=Rg25JFpGLGg"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "BI-SET",
+              "nome": "PANTURRILHA EM PÉ",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "45-60s",
+              "video": "https://www.youtube.com/watch?v=SsNlVHY15Xs"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "ABDOMINAL",
+              "nome": "SEQUÊNCIA TABATA (20s ON / 10s OFF)",
+              "series": 2,
+              "repeticoes": null,
+              "esquema": "tabata",
+              "descanso_sugerido": "sem pausa entre exercícios (protocolo Tabata: 20s ON / 10s OFF)",
+              "video": "https://youtu.be/gjOFf8vzjPo"
+            }
+          ]
+        },
+        {
+          "letra": "D",
+          "titulo": "COSTAS E TRÍCEPS",
+          "exercicios": [
+            {
+              "bloco": 1,
+              "tipo_bloco": "AQUECIMENTO",
+              "nome": "AQUECIMENTO/MOBILIDADE PRÉ TREINO DE SUPERIORES",
+              "series": null,
+              "repeticoes": null,
+              "esquema": "mobilidade",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=M8goKw7_-tU"
+            },
+            {
+              "bloco": 2,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "PUXADA GRAVITON",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=QhcP1XXhISY"
+            },
+            {
+              "bloco": 3,
+              "tipo_bloco": "PIRÂMIDE",
+              "nome": "REMADA CURVADA COM BARRA",
+              "series": 4,
+              "repeticoes": "15-12-10-08",
+              "esquema": "piramide",
+              "descanso_sugerido": "90s-2min",
+              "video": "https://www.youtube.com/watch?v=dDsJBTTPP9g"
+            },
+            {
+              "bloco": 4,
+              "tipo_bloco": "DROPSET",
+              "nome": "PULLDOWN",
+              "series": 4,
+              "repeticoes": null,
+              "esquema": "dropset",
+              "descanso_sugerido": "30-45s (sem descanso entre drops)",
+              "video": "https://www.youtube.com/watch?v=4LYh0MWwl6s"
+            },
+            {
+              "bloco": 5,
+              "tipo_bloco": "6 PESADO 12 LEVE",
+              "nome": "REMADA CAVALINHO",
+              "series": 4,
+              "repeticoes": "6+12",
+              "esquema": "pesado_leve",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=LtlC2kvF8_g"
+            },
+            {
+              "bloco": 6,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "TRÍCEPS CORDA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=ppnttf1x4C8"
+            },
+            {
+              "bloco": 7,
+              "tipo_bloco": "META DE REPETIÇÕES",
+              "nome": "FACE PULL C/ CORDA",
+              "series": 4,
+              "repeticoes": "10",
+              "esquema": "padrao",
+              "descanso_sugerido": "60-90s",
+              "video": "https://www.youtube.com/watch?v=FXQVqYQVCZQ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "videos_orientacao": {
+    "video_boas_vindas": "https://www.youtube.com/watch?v=2Jarhxjbq94",
+    "video_como_ler_planilha_corrida": "https://www.youtube.com/watch?v=Rmd1AUs0wy4",
+    "video_como_ler_treino_musculacao": "https://www.youtube.com/watch?v=p04nPFG--XE"
+  },
+  "ferramentas_originais_referencia": {
+    "calculadora_fcmax_time_hibrido": "https://chat.timehibrido.com.br/fcmax",
+    "calculadora_1rm_time_hibrido": "https://chat.timehibrido.com.br/rm",
+    "observacao": "Calculadoras originais são um chatbot externo do Time Híbrido. O app deve implementar formulas equivalentes localmente: Tanaka/Karvonen p/ FCmax e Epley/Brzycki p/ 1RM."
+  }
+}

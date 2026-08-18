@@ -1,0 +1,64 @@
+@import 'tailwindcss';
+
+/* Modo escuro controlado por classe (a preferência do usuário pode sobrepor o sistema). */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-fundo: #f8fafc;
+  --color-fundo-escuro: #0b1220;
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: #f1f5f9;
+  color: #0f172a;
+  overscroll-behavior-y: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.dark body {
+  background: #0b1220;
+  color: #e2e8f0;
+}
+
+/* Área segura do iPhone (barra inferior). */
+.pb-segura {
+  padding-bottom: calc(0.5rem + env(safe-area-inset-bottom));
+}
+.pt-segura {
+  padding-top: env(safe-area-inset-top);
+}
+
+/* Números do cronômetro sem "pular" de largura. */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+input[type='number']::-webkit-outer-spin-button,
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
